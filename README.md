@@ -9,6 +9,9 @@ Journal Entry App developed using:
 - Python
 - JavaScript
 - Sass
+- Node.js
+- Figma (for app design)
+
 ## Screenshots
 
 ![Screenshot of my App](App-image.png)
@@ -16,5 +19,10 @@ Journal Entry App developed using:
 ## Trello:https://trello.com/b/SVTo8tJK/journal-app
 
 ## LIVE SITE: https://journal-app-ash.netlify.app/
+
+
+## Future Enacments
+- Able to catorgorize your journal entries based on emotions
+- Better UI
 
 ### App Design: file:///Users/ashton/Downloads/App-design.pdf
