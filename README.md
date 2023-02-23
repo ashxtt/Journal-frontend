@@ -1,4 +1,8 @@
 # journalapp-project
+
+An App to express all of your feeling. 
+
+
 Journal Entry App developed using:
 - React.js
 - Django
